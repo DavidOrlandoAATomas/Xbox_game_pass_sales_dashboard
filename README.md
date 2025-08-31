@@ -19,7 +19,6 @@ O arquivo Excel contém 4 abas principais:
 
 - **Faturamento Total**: Análise por tipo de plano e renovação
 - **Vendas de Add-ons**: EA Play e Minecraft Season Pass
-- **Cupons de Desconto**: Impacto no valor final das assinaturas
 - **Auto Renovação**: Taxa de retenção de clientes
 
 ## 🚀 Como Utilizar
@@ -35,7 +34,6 @@ O dashboard responde a perguntas estratégicas como:
 - Qual o faturamento total de planos anuais?
 - Como a auto renovação impacta na receita?
 - Qual a performance de vendas dos add-ons?
-- Como os cupons influenciam no valor final?
 
 ## 🎨 Design
 
